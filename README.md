@@ -1,4 +1,4 @@
-# Best-actor-cats-or-dogs-?-
+**Best actor, cats or dogs?**
 This small and quick project cleans, analyzes and plots the dataset containing 5 columns, year movies were realeased, movies with cat features, and their gross net, movies with dog features, and their gross net. The main goal is to familiarise and implement basic plotting and pre-processing functions offered by the pandas library in a quick project and determine, whether doogs produce higher grossing movies or cats?
 
 **Usage**
